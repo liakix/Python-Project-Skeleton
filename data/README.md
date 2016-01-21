@@ -1,1 +1,1 @@
-This is were external dara is stored
+This is where data is stored

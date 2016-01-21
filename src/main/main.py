@@ -1,1 +1,3 @@
-print("Boum")
+__author__ = "liakix"
+
+print("Hello world!")
